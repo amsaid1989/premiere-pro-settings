@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PremiereData Version="3">
+	<SequencePreset ObjectRef="1"/>
+	<SequencePreset ObjectID="1" ClassID="5e73dd7e-4f86-4917-80eb-08ddb2f4a5f3" Version="9">
+		<WorkingColorSpace>{"baseColorProfile":{"colorProfileName":"BT.709 RGB Full"},"baseProfileType":1}</WorkingColorSpace>
+		<SequenceWorkingColorSpace>{"workingSpaceConfigVersion":1,"workingSpaceID":"BT.709 RGB Full","workingSpaceIsLinearized":0}</SequenceWorkingColorSpace>
+		<PreviewVideoFrameSize>0,0,1920,1080</PreviewVideoFrameSize>
+		<ImmersiveVideoVRConfiguration>{"ambisonicsHRIR":"","ambisonicsMonitoringType":0,"capturedHorizontalView":0,"capturedVerticalView":0,"fieldOfHorizontalView":108,"fieldOfVerticalView":108,"projectionType":0,"stereoscopicEye":0,"stereoscopicType":0,"version":3}</ImmersiveVideoVRConfiguration>
+		<VideoTracks>[]</VideoTracks>
+		<AudioTracks>[{"mAssign":4,"mAudioSends":[],"mChannelType":1,"mExpandedHeight":36,"mIsOpen":false,"mIsSubmix":false,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"int_01","mPan":0,"mPannerAssignments":[],"mSolo":false,"mSyncLock":true,"mTargeted":true,"mTrackID":2,"mVolume":1},{"mAssign":4,"mAudioSends":[],"mChannelType":1,"mExpandedHeight":36,"mIsOpen":false,"mIsSubmix":false,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"int_02","mPan":0,"mPannerAssignments":[],"mSolo":false,"mSyncLock":true,"mTargeted":true,"mTrackID":3,"mVolume":1},{"mAssign":8,"mAudioSends":[],"mChannelType":1,"mExpandedHeight":36,"mIsOpen":false,"mIsSubmix":false,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"nat_01","mPan":0,"mPannerAssignments":[],"mSolo":false,"mSyncLock":true,"mTargeted":true,"mTrackID":5,"mVolume":1},{"mAssign":8,"mAudioSends":[],"mChannelType":1,"mExpandedHeight":36,"mIsOpen":false,"mIsSubmix":false,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"nat_02","mPan":0,"mPannerAssignments":[],"mSolo":false,"mSyncLock":true,"mTargeted":true,"mTrackID":6,"mVolume":1},{"mAssign":8,"mAudioSends":[],"mChannelType":1,"mExpandedHeight":36,"mIsOpen":false,"mIsSubmix":false,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"nat_03","mPan":0,"mPannerAssignments":[],"mSolo":false,"mSyncLock":true,"mTargeted":true,"mTrackID":7,"mVolume":1},{"mAssign":10,"mAudioSends":[],"mChannelType":1,"mExpandedHeight":36,"mIsOpen":false,"mIsSubmix":false,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"vo","mPan":0,"mPannerAssignments":[],"mSolo":false,"mSyncLock":true,"mTargeted":true,"mTrackID":9,"mVolume":1},{"mAssign":15,"mAudioSends":[],"mChannelType":1,"mExpandedHeight":36,"mIsOpen":false,"mIsSubmix":false,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"sfx_01","mPan":0,"mPannerAssignments":[],"mSolo":false,"mSyncLock":true,"mTargeted":true,"mTrackID":11,"mVolume":1},{"mAssign":15,"mAudioSends":[],"mChannelType":1,"mExpandedHeight":36,"mIsOpen":false,"mIsSubmix":false,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"sfx_02","mPan":0,"mPannerAssignments":[],"mSolo":false,"mSyncLock":true,"mTargeted":true,"mTrackID":12,"mVolume":1},{"mAssign":15,"mAudioSends":[],"mChannelType":1,"mExpandedHeight":36,"mIsOpen":false,"mIsSubmix":false,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"sfx_03","mPan":0,"mPannerAssignments":[[0,[0]],[1,[1]]],"mSolo":false,"mSyncLock":true,"mTargeted":true,"mTrackID":13,"mVolume":1},{"mAssign":15,"mAudioSends":[],"mChannelType":1,"mExpandedHeight":36,"mIsOpen":false,"mIsSubmix":false,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"sfx_04","mPan":0,"mPannerAssignments":[],"mSolo":false,"mSyncLock":true,"mTargeted":true,"mTrackID":14,"mVolume":1},{"mAssign":19,"mAudioSends":[],"mChannelType":1,"mExpandedHeight":36,"mIsOpen":false,"mIsSubmix":false,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"music_01","mPan":0,"mPannerAssignments":[],"mSolo":false,"mSyncLock":true,"mTargeted":true,"mTrackID":16,"mVolume":1},{"mAssign":19,"mAudioSends":[],"mChannelType":1,"mExpandedHeight":36,"mIsOpen":false,"mIsSubmix":false,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"music_02","mPan":0,"mPannerAssignments":[],"mSolo":false,"mSyncLock":true,"mTargeted":true,"mTrackID":17,"mVolume":1},{"mAssign":19,"mAudioSends":[],"mChannelType":1,"mExpandedHeight":36,"mIsOpen":false,"mIsSubmix":false,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"music_03","mPan":0,"mPannerAssignments":[],"mSolo":false,"mSyncLock":true,"mTargeted":true,"mTrackID":18,"mVolume":1},{"mAssign":1,"mAudioSends":[],"mChannelType":0,"mExpandedHeight":15,"mIsOpen":false,"mIsSubmix":true,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"int_mix","mPan":-100,"mPannerAssignments":[[0,[0]]],"mSolo":false,"mSyncLock":true,"mTargeted":false,"mTrackID":4,"mVolume":1},{"mAssign":1,"mAudioSends":[],"mChannelType":0,"mExpandedHeight":15,"mIsOpen":false,"mIsSubmix":true,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"nat_mix","mPan":100,"mPannerAssignments":[[0,[0]]],"mSolo":false,"mSyncLock":true,"mTargeted":false,"mTrackID":8,"mVolume":1},{"mAssign":1,"mAudioSends":[],"mChannelType":0,"mExpandedHeight":15,"mIsOpen":false,"mIsSubmix":true,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"vo_mix","mPan":-100,"mPannerAssignments":[[0,[2]]],"mSolo":false,"mSyncLock":true,"mTargeted":false,"mTrackID":10,"mVolume":1},{"mAssign":1,"mAudioSends":[],"mChannelType":0,"mExpandedHeight":15,"mIsOpen":false,"mIsSubmix":true,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"sfx_mix","mPan":100,"mPannerAssignments":[[0,[2]]],"mSolo":false,"mSyncLock":true,"mTargeted":false,"mTrackID":15,"mVolume":1},{"mAssign":1,"mAudioSends":[],"mChannelType":0,"mExpandedHeight":15,"mIsOpen":false,"mIsSubmix":true,"mKeyframeMode":true,"mLocked":false,"mMatrix":[],"mMute":false,"mName":"music_mix","mPan":-100,"mPannerAssignments":[[0,[4]]],"mSolo":false,"mSyncLock":true,"mTargeted":false,"mTrackID":19,"mVolume":1}]</AudioTracks>
+		<InitialNumberOfVideoTracks>2</InitialNumberOfVideoTracks>
+		<AdaptiveNumChannels>6</AdaptiveNumChannels>
+		<VideoAllowLinearCompositing>true</VideoAllowLinearCompositing>
+		<VideoUseMaxRenderQuality>false</VideoUseMaxRenderQuality>
+		<VideoUseMaxBitDepth>false</VideoUseMaxBitDepth>
+		<VideoPixelAspectRatio>1,1</VideoPixelAspectRatio>
+		<PreviewPresetVideoCodec.Win>2019833187</PreviewPresetVideoCodec.Win>
+		<PreviewPresetFileName.Win>XDCAMHD 50 PAL</PreviewPresetFileName.Win>
+		<PreviewPresetVideoCodec.Mac>2019833187</PreviewPresetVideoCodec.Mac>
+		<PreviewPresetFileName.Mac>XDCAMHD 50 PAL</PreviewPresetFileName.Mac>
+		<EditingModeGUID.Win>44cf6a27-e791-427a-a544-97439b366abf</EditingModeGUID.Win>
+		<EditingModeGUID.Mac>44cf6a27-e791-427a-a544-97439b366abf</EditingModeGUID.Mac>
+		<Descriptions Version="1">
+			<DescriptionItem Version="1" Index="0">
+				<Second>XDCAM 50i PAL with 6 multichannel audio setup for Aljazeera This Morning reports</Second>
+				<First>en_US</First>
+			</DescriptionItem>
+		</Descriptions>
+		<Names Version="1">
+			<NameItem Version="1" Index="0">
+				<Second>AJ_ThisMorning</Second>
+				<First>en_US</First>
+			</NameItem>
+		</Names>
+		<VideoFieldType>1</VideoFieldType>
+		<AudioTimeDisplay>200</AudioTimeDisplay>
+		<VideoTimeDisplay>101</VideoTimeDisplay>
+		<AudioChannelType>3</AudioChannelType>
+		<AudioFrameRate>5292000</AudioFrameRate>
+		<VideoFrameSize>0,0,1920,1080</VideoFrameSize>
+		<VideoFrameRate>10160640000</VideoFrameRate>
+	</SequencePreset>
+</PremiereData>

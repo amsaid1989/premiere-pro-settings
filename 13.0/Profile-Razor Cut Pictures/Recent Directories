@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PremiereData Version="3">
+	<recentcontainers Version="2">
+		<containercount>2</containercount>
+		<container.0 Version="1">
+			<containeritemcount>6</containeritemcount>
+			<containeritem.0 Version="1">
+				<containerpath>/Y/Y?/YC:/YUsers/YTailor Made Pics/YDesktop/Y03_YTAnimation_001_GiantOpp</containerpath>
+				<containername>03_YTAnimation_001_GiantOpp</containername>
+			</containeritem.0>
+			<containeritem.1 Version="1">
+				<containerpath>/Y/Y?/YC:/YUsers/YTailor Made Pics/YDesktop</containerpath>
+				<containername>Desktop</containername>
+			</containeritem.1>
+			<containeritem.2 Version="1">
+				<containerpath>/Y/Y?/YC:/YUsers/YTailor Made Pics</containerpath>
+				<containername>Tailor Made Pics</containername>
+			</containeritem.2>
+			<containeritem.3 Version="1">
+				<containerpath>/Y/Y?/YC:/YUsers</containerpath>
+				<containername>Users</containername>
+			</containeritem.3>
+			<containeritem.4 Version="1">
+				<containerpath>/Y/Y?/YC:/Y</containerpath>
+				<containername>C: (Local Disk)</containername>
+			</containeritem.4>
+			<containeritem.5 Version="1">
+				<containerpath>volumes:</containerpath>
+				<containername>Local Drives</containername>
+			</containeritem.5>
+		</container.0>
+		<container.1 Version="1">
+			<containeritemcount>5</containeritemcount>
+			<containeritem.0 Version="1">
+				<containerpath>/Y/Y?/YD:/YFilm Projects/YClavo Videos/Yأشغال خشب - سارة عادل ومحمد إسماعيل</containerpath>
+				<containername>أشغال خشب - سارة عادل ومحمد إسماعيل</containername>
+			</containeritem.0>
+			<containeritem.1 Version="1">
+				<containerpath>/Y/Y?/YD:/YFilm Projects/YClavo Videos</containerpath>
+				<containername>Clavo Videos</containername>
+			</containeritem.1>
+			<containeritem.2 Version="1">
+				<containerpath>/Y/Y?/YD:/YFilm Projects</containerpath>
+				<containername>Film Projects</containername>
+			</containeritem.2>
+			<containeritem.3 Version="1">
+				<containerpath>/Y/Y?/YD:/Y</containerpath>
+				<containername>D: (New Volume)</containername>
+			</containeritem.3>
+			<containeritem.4 Version="1">
+				<containerpath>volumes:</containerpath>
+				<containername>Local Drives</containername>
+			</containeritem.4>
+		</container.1>
+	</recentcontainers>
+</PremiereData>

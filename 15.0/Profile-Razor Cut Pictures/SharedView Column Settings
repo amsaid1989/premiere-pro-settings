@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PremiereData Version="3">
+	<providers Version="2">
+		<providercount>4</providercount>
+		<provider.3 Version="1">
+			<columncount>2</columncount>
+			<providername>com.adobe.Premiere.WinProviderVolume</providername>
+			<column.0 Version="1">
+				<width>170.</width>
+				<field>Name</field>
+			</column.0>
+			<column.1 Version="1">
+				<width>170.</width>
+				<field>Path</field>
+			</column.1>
+		</provider.3>
+		<provider.0 Version="1">
+			<columncount>6</columncount>
+			<providername>com.adobe.Premiere.ProviderAVCHD</providername>
+			<column.0 Version="1">
+				<width>170.</width>
+				<field>Name</field>
+			</column.0>
+			<column.1 Version="1">
+				<width>170.</width>
+				<field>Path</field>
+			</column.1>
+			<column.4 Version="1">
+				<width>170.</width>
+				<field>Model</field>
+			</column.4>
+			<column.3 Version="1">
+				<width>170.</width>
+				<field>Make</field>
+			</column.3>
+			<column.2 Version="1">
+				<width>170.</width>
+				<field>shotDate</field>
+			</column.2>
+			<column.5 Version="1">
+				<width>170.</width>
+				<field>startTimecode</field>
+			</column.5>
+		</provider.0>
+		<provider.2 Version="1">
+			<columncount>2</columncount>
+			<providername>com.adobe.Premiere.WinProviderDirectory</providername>
+			<column.0 Version="1">
+				<width>170.</width>
+				<field>Name</field>
+			</column.0>
+			<column.1 Version="1">
+				<width>316.</width>
+				<field>02</field>
+			</column.1>
+		</provider.2>
+		<provider.1 Version="1">
+			<columncount>2</columncount>
+			<providername>com.adobe.Premiere.ProviderFavorites</providername>
+			<column.0 Version="1">
+				<width>170.</width>
+				<field>Name</field>
+			</column.0>
+			<column.1 Version="1">
+				<width>170.</width>
+				<field>Path</field>
+			</column.1>
+		</provider.1>
+	</providers>
+</PremiereData>

@@ -1,0 +1,211 @@
+<?xml version='1.0'?>
+<prop.map version='4'>
+<prop.list>
+<prop.pair>
+<key>BuiltInKeys</key>
+<array>
+<array.type><string/></array.type>
+<string>$$$/Premiere/FrontEnd/Learning=Learning</string>
+<string>$$$/Premiere/FrontEnd/AllPanels=All Panels</string>
+<string>$$$/Premiere/FrontEnd/Assembly=Assembly</string>
+<string>$$$/Premiere/FrontEnd/Editing=Editing</string>
+<string>$$$/Premiere/FrontEnd/Color=Color</string>
+<string>$$$/Premiere/FrontEnd/Effects=Effects</string>
+<string>$$$/Premiere/FrontEnd/Audio=Audio</string>
+<string>$$$/Premiere/FrontEnd/Metalogging=Metalogging</string>
+<string>$$$/Premiere/FrontEnd/Graphics=Graphics</string>
+<string>$$$/Premiere/FrontEnd/Libraries=Libraries</string>
+<string>$$$/Premiere/FrontEnd/Production=Production</string>
+</array>
+</prop.pair>
+<prop.pair>
+<key>BuiltIns</key>
+<array>
+<array.type><ustring/></array.type>
+</array>
+</prop.pair>
+<prop.pair>
+<key>FilePaths</key>
+<array>
+<array.type><ustring/></array.type>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\ArchivedLayouts\UserWorkspace12.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\ArchivedLayouts\UserWorkspace11.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\ArchivedLayouts\UserWorkspace6.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\ArchivedLayouts\UserWorkspace7.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\ArchivedLayouts\UserWorkspace_2.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\ArchivedLayouts\UserWorkspace.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\ArchivedLayouts\UserWorkspace9.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\ArchivedLayouts\UserWorkspace8.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\ArchivedLayouts\UserWorkspace10.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\ArchivedLayouts\UserWorkspace_4.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\ArchivedLayouts\UserWorkspace13.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace12.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace11.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace6.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace7.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace_2.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace9.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace8.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace10.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace5.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace3.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace2.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace4.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace1.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace14.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace_3.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace_1.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace_4.xml</ustring>
+<ustring>C:\Users\Razor Cut Pictures\Documents\Adobe\Premiere Pro\14.0\Profile-Razor Cut Pictures\Layouts\UserWorkspace13.xml</ustring>
+</array>
+</prop.pair>
+<prop.pair>
+<key>MainWndPos</key>
+<prop.list>
+<prop.pair>
+<key>MaxPos</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>-1</int>
+<int type='signed' size='32'>-1</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>MinPos</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>-1</int>
+<int type='signed' size='32'>-1</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>NormalPos</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>2560</int>
+<int type='signed' size='32'>1040</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>ShowCmd</key>
+<int type='signed' size='32'>3</int>
+</prop.pair>
+</prop.list>
+</prop.pair>
+<prop.pair>
+<key>ModifiedTimes</key>
+<array>
+<array.type><string/></array.type>
+<string>20180124T205303.929511</string>
+<string>20171015T225522.206900</string>
+<string>20161230T234017.068687</string>
+<string>20161103T215427.073125</string>
+<string>20210215T182713.127386</string>
+<string>20200326T121527.556438</string>
+<string>20170611T181204.670812</string>
+<string>20170611T133400.014600</string>
+<string>20170709T215024.888830</string>
+<string>20210204T102849.728690</string>
+<string>20180131T002059.006753</string>
+<string>20180124T205555.424320</string>
+<string>20200326T121459.100706</string>
+<string>20190331T114359.656999</string>
+<string>20201109T104711.010789</string>
+<string>20210419T120449.666875</string>
+<string>20200504T091918.333434</string>
+<string>20200529T154939.288783</string>
+<string>20180301T194610.662003</string>
+<string>20170709T221225.496823</string>
+<string>20160629T173821.375535</string>
+<string>20180202T195650.023401</string>
+<string>20150728T010353.272738</string>
+<string>20160629T195805.473078</string>
+<string>20210129T141048.404913</string>
+<string>20180301T193332.196024</string>
+<string>20201207T111749.243018</string>
+<string>20210210T145053.821339</string>
+<string>20210204T102857.084835</string>
+<string>20180131T002105.465122</string>
+</array>
+</prop.pair>
+<prop.pair>
+<key>UserNames</key>
+<array>
+<array.type><ustring/></array.type>
+<ustring>ABDEL</ustring>
+<ustring>AbdelrahmanSaid</ustring>
+<ustring>AbdelrahmanSaidSound</ustring>
+<ustring>AbdelrahmanSaidWide</ustring>
+<ustring>AbdelrahmanSaid_3monitor</ustring>
+<ustring>AbdelrahmanSaid_FullScreenTimeline</ustring>
+<ustring>AbdelrahmanSaid_rough</ustring>
+<ustring>Abdelrahman_EditFocus</ustring>
+<ustring>Abdelrahman_Temp</ustring>
+<ustring>Workspace</ustring>
+<ustring>Yahyia 2018</ustring>
+<ustring>ABDEL</ustring>
+<ustring>AbdelrahmanSaid</ustring>
+<ustring>AbdelrahmanSaidSound</ustring>
+<ustring>AbdelrahmanSaidWide</ustring>
+<ustring>AbdelrahmanSaid_3monitor</ustring>
+<ustring>AbdelrahmanSaid_FullScreenTimeline</ustring>
+<ustring>AbdelrahmanSaid_rough</ustring>
+<ustring>Abdelrahman_EditFocus</ustring>
+<ustring>Abdelrahman_Temp</ustring>
+<ustring>$$$/Premiere/FrontEnd/AllPanels=All Panels</ustring>
+<ustring>$$$/Premiere/FrontEnd/Assembly=Assembly</ustring>
+<ustring>$$$/Premiere/FrontEnd/Audio=Audio</ustring>
+<ustring>$$$/Premiere/FrontEnd/Color=Color</ustring>
+<ustring>$$$/Premiere/FrontEnd/Editing=Editing</ustring>
+<ustring>$$$/Premiere/FrontEnd/Effects=Effects</ustring>
+<ustring>$$$/Premiere/FrontEnd/Graphics=Graphics</ustring>
+<ustring>$$$/Premiere/FrontEnd/Learning=Learning</ustring>
+<ustring>Workspace</ustring>
+<ustring>Yahyia 2018</ustring>
+</array>
+</prop.pair>
+<prop.pair>
+<key>WorkspaceConfigVersion</key>
+<string>1.1</string>
+</prop.pair>
+<prop.pair>
+<key>WorkspaceTypes</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+<int type='signed' size='32'>1</int>
+</array>
+</prop.pair>
+</prop.list>
+</prop.map>
